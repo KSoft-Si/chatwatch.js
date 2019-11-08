@@ -1,11 +1,11 @@
 {
 	"name": "chatwatch.js",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "Official Node.js Wrapper for ChatWatch.",
 	"main": "src/index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://git.farfrom.earth/aero/forks/chatwatch.js"
+		"url": "git+https://git.farfrom.earth/aero/forks/chatwatch.js.git"
 	},
 	"author": "Ravy <ravy@aero.bot> (https://ravy.xyz)",
 	"license": "BSD-3-Clause",
@@ -15,5 +15,6 @@
 	},
 	"optionalDependencies": {
 		"bufferutil": "^4.0.1"
-	}
+	},
+	"type": "commonjs"
 }
