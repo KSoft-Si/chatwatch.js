@@ -1,3 +1,3 @@
-const Client = require('../lib/ChatWatchClient');
+const ChatWatchClient = require('../lib/ChatWatchClient');
 
-module.exports = Client;
+module.exports = { ChatWatchClient };
