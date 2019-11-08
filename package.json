@@ -1,13 +1,13 @@
 {
 	"name": "chatwatch.js",
 	"version": "1.0.0",
-	"description": "JS implementation for KSoft.SI ChatWatch",
+	"description": "Official Node.js Wrapper for ChatWatch.",
 	"main": "src/index.js",
 	"repository": {
 		"type": "git",
 		"url": "https://git.farfrom.earth/aero/forks/chatwatch.js"
 	},
-	"author": "Ravy <ravy@aero.bot>",
+	"author": "Ravy <ravy@aero.bot> (https://ravy.xyz)",
 	"license": "BSD-3-Clause",
 	"dependencies": {
 		"centra-aero": "^1.0.0",
