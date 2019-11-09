@@ -1,6 +1,6 @@
 {
 	"name": "chatwatch.js",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"description": "Official Node.js Wrapper for ChatWatch.",
 	"main": "src/index.js",
 	"repository": {
